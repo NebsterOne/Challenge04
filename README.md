@@ -4,8 +4,8 @@
 
 ## Webpage and Repository
 
-* The URL of the (still in progress) deployed application: 
-My site is live at https://nebsterone.github.io/Challenge04/ 
+* My (still in progress) site is live at: 
+https://nebsterone.github.io/Challenge04/ 
 
 * The URL of the GitHub repository: 
 https://github.com/NebsterOne
